@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data_Access", "Data_Access\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_ServicesLayer", "1_ServicesLayer", "{EC218521-81EA-4A0E-8A71-870DC013449F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Kafkaa", "Kafkaa", "{48452649-D67A-4D24-BDA3-3BE1C29D73FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

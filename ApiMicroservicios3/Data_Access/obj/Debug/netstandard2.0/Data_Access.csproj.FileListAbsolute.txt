@@ -10,9 +10,9 @@ C:\Users\FAMILIA\Desktop\David\Distribuidos\microservicios\UMB_APP_SISDIS_202\Ap
 C:\Users\pipel\OneDrive\Escritorio\Distribuidos\UMB_APP_SISDIS_202\ApiMicroservicios3\Data_Access\bin\Debug\netstandard2.0\Data_Access.deps.json
 C:\Users\pipel\OneDrive\Escritorio\Distribuidos\UMB_APP_SISDIS_202\ApiMicroservicios3\Data_Access\bin\Debug\netstandard2.0\Data_Access.dll
 C:\Users\pipel\OneDrive\Escritorio\Distribuidos\UMB_APP_SISDIS_202\ApiMicroservicios3\Data_Access\bin\Debug\netstandard2.0\Data_Access.pdb
-C:\Users\pipel\OneDrive\Escritorio\Distribuidos\UMB_APP_SISDIS_202\ApiMicroservicios3\Data_Access\obj\Debug\netstandard2.0\Data_Access.csprojAssemblyReference.cache
 C:\Users\pipel\OneDrive\Escritorio\Distribuidos\UMB_APP_SISDIS_202\ApiMicroservicios3\Data_Access\obj\Debug\netstandard2.0\Data_Access.AssemblyInfoInputs.cache
 C:\Users\pipel\OneDrive\Escritorio\Distribuidos\UMB_APP_SISDIS_202\ApiMicroservicios3\Data_Access\obj\Debug\netstandard2.0\Data_Access.AssemblyInfo.cs
-C:\Users\pipel\OneDrive\Escritorio\Distribuidos\UMB_APP_SISDIS_202\ApiMicroservicios3\Data_Access\obj\Debug\netstandard2.0\Data_Access.csproj.CoreCompileInputs.cache
 C:\Users\pipel\OneDrive\Escritorio\Distribuidos\UMB_APP_SISDIS_202\ApiMicroservicios3\Data_Access\obj\Debug\netstandard2.0\Data_Access.dll
 C:\Users\pipel\OneDrive\Escritorio\Distribuidos\UMB_APP_SISDIS_202\ApiMicroservicios3\Data_Access\obj\Debug\netstandard2.0\Data_Access.pdb
+C:\Users\pipel\OneDrive\Escritorio\Distribuidos\UMB_APP_SISDIS_202\ApiMicroservicios3\Data_Access\obj\Debug\netstandard2.0\Data_Access.csproj.CoreCompileInputs.cache
+C:\Users\pipel\OneDrive\Escritorio\Distribuidos\UMB_APP_SISDIS_202\ApiMicroservicios3\Data_Access\obj\Debug\netstandard2.0\Data_Access.csprojAssemblyReference.cache

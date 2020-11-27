@@ -1,15 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "obzVWRX7gm2qQtz4zva0U9WtPDUXtkUWvkhoEij87KfdHpgdEpUgTszmsE68fajN7yeWswrMAirOjmrhGl8+Hg==",
+  "dgSpecHash": "Qrvya5WRRstvHfnJ8EL6xexGKoHIb8LN2rEYhfRDXA7Mp6+P0q8EPxjCTusH4brDhjF7eASOTHZ0uHWw+LbLjg==",
   "success": true,
   "projectFilePath": "C:\\Users\\pipel\\OneDrive\\Escritorio\\Distribuidos\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\ApiMicroservicios3\\ApiMicroservicios3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pipel\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
+    "C:\\Users\\pipel\\.nuget\\packages\\confluent.kafka\\1.6.0-pre4\\confluent.kafka.1.6.0-pre4.nupkg.sha512",
     "C:\\Users\\pipel\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\pipel\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
     "C:\\Users\\pipel\\.nuget\\packages\\k4os.compression.lz4\\1.1.11\\k4os.compression.lz4.1.1.11.nupkg.sha512",
     "C:\\Users\\pipel\\.nuget\\packages\\k4os.compression.lz4.streams\\1.1.11\\k4os.compression.lz4.streams.1.1.11.nupkg.sha512",
     "C:\\Users\\pipel\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
+    "C:\\Users\\pipel\\.nuget\\packages\\librdkafka.redist\\1.6.0-pre4\\librdkafka.redist.1.6.0-pre4.nupkg.sha512",
     "C:\\Users\\pipel\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\pipel\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\pipel\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
