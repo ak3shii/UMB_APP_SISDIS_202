@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9a1GQW8aFYud6SiM4B7J5tiDyAhDnHVY0mwIw7/JqQsPpL8nS4BLE2JzLfYCk97FV1B6QgaA6cnYsahZf9me+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pipel\\OneDrive\\Escritorio\\Distribuidos\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\kafka-consumer-simples-csharp\\kafka-consumer-simples-csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pipel\\.nuget\\packages\\confluent.kafka\\1.4.3\\confluent.kafka.1.4.3.nupkg.sha512",
+    "C:\\Users\\pipel\\.nuget\\packages\\librdkafka.redist\\1.4.2\\librdkafka.redist.1.4.2.nupkg.sha512",
+    "C:\\Users\\pipel\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
